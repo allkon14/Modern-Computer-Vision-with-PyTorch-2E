@@ -2,7 +2,7 @@
 Modern Computer Vision with PyTorch, Second Edition</h1>
 <p align="center">This is the code repository for <a href ="https://www.packtpub.com/en-us/product/modern-computer-vision-with-pytorch-second-edition/9781803231334"> Modern Computer Vision with PyTorch, Second Edition</a>, published by Packt.
 </p>
-
+https://play.google.com/books/reader?id=BWDEOAAAAEAJ 
 <h2 align="center">
 A practical roadmap from deep learning fundamentals to advanced applications and Generative AI
 </h2>
